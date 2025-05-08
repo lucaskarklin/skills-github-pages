@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: I"m goated
+
+Hello, I'm goated
 ---
 
